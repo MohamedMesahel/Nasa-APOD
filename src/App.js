@@ -4,7 +4,9 @@ import {
   BrowserRouter,
   Routes,
   Route
-} from "react-router-dom"; import Home from './components/Home';
+} from "react-router-dom"; 
+
+import Home from './components/Home';
 import NasaPhoto from './components/NasaPhoto';
 
 
